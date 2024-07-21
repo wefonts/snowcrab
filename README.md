@@ -1,5 +1,5 @@
 # snowcrab
-영덕대게체
+영덕 대게체
 
 <pre>
 @font-face {

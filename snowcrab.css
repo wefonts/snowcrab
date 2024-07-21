@@ -2,11 +2,11 @@
     font-family: "snowcrab";
     font-weight: normal;
     font-style: normal;
-    src: url("https://cdn.jsdelivr.net/gh/websfont/snowcrab/snowcrab.eot");
-    src: url("https://cdn.jsdelivr.net/gh/websfont/snowcrab/snowcrab.eot?#iefix") format("embedded-opentype"),
-         url("https://cdn.jsdelivr.net/gh/websfont/snowcrab/snowcrab.woff2") format("woff2"),
-         url("https://cdn.jsdelivr.net/gh/websfont/snowcrab/snowcrab.woff") format("woff"),
-         url("https://cdn.jsdelivr.net/gh/websfont/snowcrab/snowcrab.ttf") format("truetype");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/snowcrab/snowcrab.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/snowcrab/snowcrab.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/snowcrab/snowcrab.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/snowcrab/snowcrab.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/snowcrab/snowcrab.ttf") format("truetype");
     font-display: swap;
 } 
 .snowcrab {
